@@ -1,31 +1,36 @@
 <div align="center">
 
-<img src="./assets/glitch.svg" width="720" alt="faras fauzan"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e60012,100:ff7a00&height=180&section=header&text=faras%20fauzan&fontSize=52&fontColor=f5f5f5&animation=fadeIn&fontAlignY=35&desc=masih%20pemula%2C%20tapi%20unit-02%20punyaku&descAlignY=55&descSize=16" width="100%"/>
 
 </div>
 
-<br/>
-
-<div align="center">
-
-![C](https://img.shields.io/badge/C-e60012?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ff7a00?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-e60012?style=for-the-badge&logo=javascript&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-ff7a00?style=for-the-badge&logo=blender&logoColor=white)
-![Git](https://img.shields.io/badge/Git-e60012?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-ff7a00?style=for-the-badge&logo=linux&logoColor=white)
-
-</div>
-
-<br/>
+<img src="./assets/asuka.webp" align="right" height="340" alt="Asuka Langley — EVA Unit-02"/>
 
 ```bash
 faras@unit02:~$ sudo apt install opsec
 [sudo] password for faras: hunter2
 Reading package lists... Done
 E: Unable to locate package opsec
+faras@unit02:~$ whoami
+pilot of eva unit-02
 faras@unit02:~$ _
 ```
+
+<br clear="right"/>
+
+<div align="center">
+
+![C](https://img.shields.io/badge/C-e60012?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff7a00?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-e60012?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-ff7a00?style=for-the-badge&logo=laravel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-e60012?style=for-the-badge&logo=javascript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-ff7a00?style=for-the-badge&logo=next.js&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-e60012?style=for-the-badge&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ff7a00?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-e60012?style=for-the-badge&logo=linux&logoColor=white)
+
+</div>
 
 <br/>
 
