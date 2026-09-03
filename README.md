@@ -29,7 +29,7 @@
 </div>
 
 ```console
-faras@unit02:~$ ./mabar.sh --role=carry
+faras@desktop:~$ ./mabar.sh --role=carry
 ```
 
 <br/>
