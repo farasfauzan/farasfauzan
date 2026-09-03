@@ -4,19 +4,11 @@
 
 </div>
 
-<img src="./assets/asuka.webp" align="right" height="340" alt="Asuka Langley — EVA Unit-02"/>
+<div align="center">
 
-```bash
-faras@unit02:~$ sudo apt install opsec
-[sudo] password for faras: hunter2
-Reading package lists... Done
-E: Unable to locate package opsec
-faras@unit02:~$ whoami
-pilot of eva unit-02
-faras@unit02:~$ _
-```
+<img src="./assets/asuka.webp" height="340" alt="Asuka Langley — EVA Unit-02"/>
 
-<br clear="right"/>
+</div>
 
 <div align="center">
 
