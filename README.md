@@ -43,7 +43,7 @@ faras@unit02:~$ _
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=farasfauzan&bg_color=0a0a0a&color=f5f5f5&line=e60012&point=ff7a00&area=true&area_color=e60012&hide_border=true" width="95%"/>
 
-<img src="https://raw.githubusercontent.com/farasfauzan/farasfauzan/output/github-snake-dark.svg" width="95%"/>
+<br/>
 
 <br/><br/>
 
