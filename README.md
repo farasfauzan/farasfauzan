@@ -29,7 +29,7 @@
 </div>
 
 ```console
-faras@desktop:~$ ./mabar.sh --role=carry
+faras@desktop:~$ sudo apt install opsec
 ```
 
 <br/>
