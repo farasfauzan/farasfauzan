@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e60012,100:ff7a00&height=180&section=header&text=faras%20fauzan&fontSize=52&fontColor=f5f5f5&animation=fadeIn&fontAlignY=35&desc=masih%20pemula%2C%20tapi%20unit-02%20punyaku&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e60012,100:ff7a00&height=180&section=header&text=faras%20fauzan&fontSize=52&fontColor=f5f5f5&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 </div>
 
