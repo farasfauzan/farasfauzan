@@ -29,7 +29,6 @@
 ![C%23](https://img.shields.io/badge/C%23-ff7a00?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-e60012?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-ff7a00?style=for-the-badge&logo=go&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-e60012?style=for-the-badge&logo=v&logoColor=white)
 
 </div>
 
