@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e60012,100:ff7a00&height=180&section=header&text=mabar%20pc&fontSize=52&fontColor=f5f5f5&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e60012,100:ff7a00&height=180&section=header&text=mabar%20pc&fontSize=52&fontColor=f5f5f5&animation=twinkling&fontAlignY=38" width="100%"/>
 
 </div>
 
@@ -27,6 +27,10 @@
 ![Linux](https://img.shields.io/badge/Linux-e60012?style=for-the-badge&logo=linux&logoColor=white)
 
 </div>
+
+```console
+faras@unit02:~$ ./mabar.sh --role=carry
+```
 
 <br/>
 
