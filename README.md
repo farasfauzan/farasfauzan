@@ -39,10 +39,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=farasfauzan&color=e60012&style=flat-square&label=visitors"/>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=e60012&height=6" width="100%"/>
 
 </div>
